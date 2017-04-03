@@ -5,4 +5,5 @@ ReCAPTCHAWiz combines Selenium with a trained convolutional neural network to cl
 
 ![ReCAPTCHA Challenge Screenshot](https://github.com/alporter08/ReCAPTCHAWiz/blob/master/CAPTCHA_Demo.png)
 
-### 
+### Image Data
+The images used to train the CNN were obtained directly from the ReCAPTCHA site.  
